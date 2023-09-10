@@ -1,0 +1,42 @@
+body {
+    background-color: #000000;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+footer {
+    color: black;
+    text-align: center;
+    padding: 3px;
+    background-color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+  }
+  
+li {
+    float: right;
+  }
+  
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #8b8b8b;
+}
