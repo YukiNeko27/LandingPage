@@ -1,15 +1,6 @@
-1. Pintu rumah terkunci.
-	1.1 Cek kantong celana?
-		1.1.1 Kunci ditemukan.
-			1.1.1.1 Masukkan kunci?
-				1.1.1.1.1 Pintu terbuka.
-			1.1.1.2 Lempar kunci?
-				1.1.1.2.1 Kunci terlempar, tidak akan pernah bisa masuk rumah lagi. Kecuali...
-					1.1.1.2.1.1 Tendang pintu sampai terbuka?
-						1.1.1.2.1.1.1 Pintu terbuka, tetapi mekanisme kuncinya rusak.
-					1.1.1.2.1.2 Mau bagaimana lagi? Mau cari kunci yang terlempar?
-						1.1.1.2.1.2.1 Kunci ditemukan.
-							(potential infinite loop)
-
-	1.2 Tendang pintu sampai terbuka?
-		1.2.1 Pintu terbuka, tetapi mekanisme kuncinya rusak.
+1. Komputer tidak menyala.
+	1.1 Apakah kabel dicolok ke stop kontak?
+		1.1.2 Pasang kabel power.
+	1.2 Apakah kipas (cooler) komputer berputar?
+		1.2.1 Kemungkinan monitor yang bermasalah, perbaiki monitor.
+	1.3 Komputer bermasalah, perbaiki komputer.
